@@ -96,7 +96,7 @@ This notebook is intended to:
 
 **Pranav A Kumar**  
 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/pranav-a-kumar-2a39b4358/)  
-🔍 Passionate about Data Science | Transitioning from IT Support to Predictive Modeling
+🔍 Passionate about Data Science | Transitioning from Software Engineer to Predictive Modeling
 
 
 ---
